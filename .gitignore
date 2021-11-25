@@ -1,0 +1,7 @@
+multipurpose_discord.egg-info
+dist
+__pyache__
+build
+.idea
+.pypirc
+pyproject.toml
